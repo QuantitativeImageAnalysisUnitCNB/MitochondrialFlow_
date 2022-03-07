@@ -17,11 +17,11 @@ Analysis of mitochondrial morphology was performed using Java-based “Mitochond
 <a name="installation"></a>
 ## Installation
 
-The ***MitochondrialAnalyzer*** plugin may be installed in Fiji or ImageJ by following these steps:
+The ***MitochondrialFlow*** plugin may be installed in Fiji or ImageJ by following these steps:
 
 1. In the event of not having ImageJ or Fiji already installed, please navigate through [https://imagej.nih.gov/ij/download.html](https://imagej.nih.gov/ij/download.html), download it and then, install it on a computer with Java pre-installed in either Windows, Mac OS or Linux systems.
-2.  Once done, download the plugin JAR file named as [MitochondrialFlow_.jar](https://github.com/QuantitativeImageAnalysisUnitCNB/MitochondrialAnalyzer_/blob/master/MitochondrialAnalyzer_.jar) from repository.
-3.  Move this file into the `ImageJ/Fiji "plugins" subfolder`, or differently, by dragging and dropping into the `ImageJ/Fiji main window` or optionally, running through menu bar `"Plugins"` **→** `"Install"` **→**  `‘Path to File’`. Then restart either ImageJ or Fiji and it is about time to start using "MitochondrialAnalyzer".
+2.  Once done, download the plugin JAR file named as [MitochondrialFlow_.jar](https://github.com/QuantitativeImageAnalysisUnitCNB/MitochondrialFlow_/blob/master/MitochondrialFlow_.jar) from repository.
+3.  Move this file into the `ImageJ/Fiji "plugins" subfolder`, or differently, by dragging and dropping into the `ImageJ/Fiji main window` or optionally, running through menu bar `"Plugins"` **→** `"Install"` **→**  `‘Path to File’`. Then restart either ImageJ or Fiji and it is about time to start using "MitochondrialFlow".
 <a name="references"></a>
 ## References
 <a id="1">[1]</a> 
